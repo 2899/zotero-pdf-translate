@@ -17,6 +17,7 @@ readerpanel-extra-resize-label=重置宽度
 readerpanel-extra-pin-label=📌置顶
 readerpanel-extra-pinned-label=📍取消置顶
 
+service-huoshan=火山翻译🗝️
 service-googleapi=Google(API)
 service-google=Google
 service-cnki=CNKI
@@ -44,11 +45,17 @@ service-collinsdict=科林斯词典(en↔zh)🔊
 service-youdaodict=有道词典(en↔zh)
 service-freedictionaryapi=FreeDictionaryAPI(en↔en)
 service-webliodict=Weblio Dict(en↔ja)
-service-errorPrefix=[请求错误]\n\n此翻译引擎不可用，可能是密钥错误，也可能是请求过快。\n可以尝试其他翻译引擎，或者来此查看相关回答：\nhttps://zotero.yuque.com/staff-gkhviy/pdf-trans/age09f \n\n请注意，这些错误与 Zotero 和本翻译插件无关，由该翻译服务引起：
+service-errorPrefix=[请求错误]
+    此翻译引擎不可用，可能是密钥错误，也可能是请求过快。
+    可以尝试其他翻译引擎，或者来此查看相关回答：
+    https://zotero.yuque.com/staff-gkhviy/pdf-trans/age09f
+    
+    请注意，这些错误与 Zotero 和本翻译插件无关，由该翻译服务引起：
 
 service-niutranspro-secret-pass=更多...
 service-niutranspro-secret-fail=登录
 service-niutranspro-dialog-title=小牛翻译账户
+service-niutranspro-dialog-endpoint=接口
 service-niutranspro-dialog-username=用户名
 service-niutranspro-dialog-password=密码
 service-niutranspro-dialog-signup=注册
